@@ -1,3 +1,4 @@
 .vscode
 .DS_Store
-/objs
+./objs
+./libft/*.o
