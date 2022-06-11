@@ -2,3 +2,5 @@
 .DS_Store
 objs
 libft/*.o
+libft/*.a
+minishell
