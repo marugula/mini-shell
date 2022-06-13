@@ -8,6 +8,7 @@
 ## How to use it?
 
 Use ``make`` to build the project
+(_you must have the readline library installed_)
 
 And simply run it with:
 ```
